@@ -1,0 +1,8 @@
+gunicorn==20.1.0
+Flask
+werkzeug==2.0.3
+decorator
+brotlipy
+gevent
+meinheld
+pyyaml
